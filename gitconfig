@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fdomaass98@users.noreply.github.com
+	name = Fernando Maass
